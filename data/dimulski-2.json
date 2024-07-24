@@ -1,0 +1,8 @@
+{
+  "contest": 414,
+  "handle": "dimulski",
+  "risk": "3",
+  "title": "If finalBonus is negative schnibblesTotal will underflow",
+  "issueId": 2,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/2"
+}
