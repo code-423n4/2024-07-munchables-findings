@@ -1,0 +1,8 @@
+{
+  "contest": 414,
+  "handle": "dimulski",
+  "risk": "3",
+  "title": "AccountManager::updatePlayer() will always revert when called by LandManager::_farmPlots() internal function",
+  "issueId": 3,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/3"
+}
