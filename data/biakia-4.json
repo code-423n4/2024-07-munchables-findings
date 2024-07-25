@@ -1,0 +1,8 @@
+{
+  "contest": 414,
+  "handle": "biakia",
+  "risk": "2",
+  "title": "The `transferToUnoccupiedPlot` function does not update the plotId in `ToilerState`",
+  "issueId": 4,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/4"
+}
