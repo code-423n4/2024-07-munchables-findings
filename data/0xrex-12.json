@@ -1,0 +1,8 @@
+{
+  "contest": 414,
+  "handle": "0xrex",
+  "risk": "2",
+  "title": "Protocol's handled edge case introduces another issue of not updating `toiler.dirty` states in a new edge case",
+  "issueId": 12,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/12"
+}
