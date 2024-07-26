@@ -1,0 +1,8 @@
+{
+  "contest": 414,
+  "handle": "BiasedMerc",
+  "risk": "3",
+  "title": "LandManager._farmPlots() can provide rewards to invalid realm due to missing check",
+  "issueId": 15,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/15"
+}
