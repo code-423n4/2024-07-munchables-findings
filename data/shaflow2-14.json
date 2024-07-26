@@ -1,0 +1,8 @@
+{
+  "contest": 414,
+  "handle": "shaflow2",
+  "risk": "2",
+  "title": "When the pledger located on a dirty plot transfers to an unoccupie non dirty plot, _toiler will be marked as dirty and will never receive any profit",
+  "issueId": 14,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/14"
+}
