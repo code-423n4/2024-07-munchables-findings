@@ -1,0 +1,8 @@
+{
+  "contest": 414,
+  "handle": "dimulski",
+  "risk": "3",
+  "title": "LandManager::transferToUnoccupiedPlot() doesn't update the plotId in the ToilerState struct",
+  "issueId": 19,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/19"
+}
