@@ -1,0 +1,8 @@
+{
+  "contest": 414,
+  "handle": "0xrex",
+  "risk": "3",
+  "title": "Landlord weights get severely skewed down because the `PRICE_PER_PLOT` is scaled in 18 decimals whereas the weights are not",
+  "issueId": 21,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/21"
+}
