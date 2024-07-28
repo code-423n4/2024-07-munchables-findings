@@ -1,0 +1,8 @@
+{
+  "contest": 414,
+  "handle": "0xCiphky",
+  "risk": "3",
+  "title": "toilerState[tokenId].plotId not updated in transferToUnoccupiedPlot function",
+  "issueId": 45,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/45"
+}
