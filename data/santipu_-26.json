@@ -1,0 +1,8 @@
+{
+  "contest": 414,
+  "handle": "santipu_",
+  "risk": "2",
+  "title": "The `dirty` flag isn't updated when an NFT is transfered to an unocuppied plot",
+  "issueId": 26,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/26"
+}
