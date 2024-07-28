@@ -1,0 +1,8 @@
+{
+  "contest": 414,
+  "handle": "0xrex",
+  "risk": "3",
+  "title": "Transferring a `munchNFT` from an unavailable plot to an available one doesn't allow the renter to earn schnibbles once the dirty state of the toilerState is set to true",
+  "issueId": 46,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/46"
+}
