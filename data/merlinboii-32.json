@@ -1,0 +1,8 @@
+{
+  "contest": 414,
+  "handle": "merlinboii",
+  "risk": "3",
+  "title": "`schnibblesTotal` calculation with the `finalBonus` can result in underflow and incorrect value",
+  "issueId": 32,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/32"
+}
