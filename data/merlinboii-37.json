@@ -1,0 +1,8 @@
+{
+  "contest": 414,
+  "handle": "merlinboii",
+  "risk": "3",
+  "title": "Incorrect timestamp updating for invalid plots due to USD price fluctuation",
+  "issueId": 37,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/37"
+}
