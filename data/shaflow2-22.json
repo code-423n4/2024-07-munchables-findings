@@ -1,0 +1,8 @@
+{
+  "contest": 414,
+  "handle": "shaflow2",
+  "risk": "3",
+  "title": "Due to unsafe type conversion, there may be anomalies in the calculation of staking rewards,causing Staker's NFT to be permanently stuck",
+  "issueId": 22,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/22"
+}
