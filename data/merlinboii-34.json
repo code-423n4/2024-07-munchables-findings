@@ -1,0 +1,8 @@
+{
+  "contest": 414,
+  "handle": "merlinboii",
+  "risk": "3",
+  "title": "Incomplete Update of `ToilerState` in `LandManager::transferToUnoccupiedPlot()`",
+  "issueId": 34,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/34"
+}
