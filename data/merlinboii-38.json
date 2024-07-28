@@ -1,0 +1,8 @@
+{
+  "contest": 414,
+  "handle": "merlinboii",
+  "risk": "2",
+  "title": "Incorrect timestamp updating for invalid plots due to configured token becoming inactive",
+  "issueId": 38,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/38"
+}
