@@ -1,0 +1,8 @@
+{
+  "contest": 414,
+  "handle": "0xCiphky",
+  "risk": "3",
+  "title": "Failure to Update Dirty Flag in transferToUnoccupiedPlot Prevents Reward Accumulation On Valid Plot",
+  "issueId": 42,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/42"
+}
