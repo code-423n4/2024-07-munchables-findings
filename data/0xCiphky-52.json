@@ -1,0 +1,8 @@
+{
+  "contest": 414,
+  "handle": "0xCiphky",
+  "risk": "2",
+  "title": "Inaccurate lastPetMunchable Updates Leading to Exploitation",
+  "issueId": 52,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/52"
+}
