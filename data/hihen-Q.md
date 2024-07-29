@@ -1,5 +1,7 @@
 # QA Report
 
+Issues that are not included in Automated Findings.
+
 ## Summary
 
 ### Low Issues
