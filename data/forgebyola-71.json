@@ -1,0 +1,8 @@
+{
+  "contest": 414,
+  "handle": "forgebyola",
+  "risk": "2",
+  "title": "Users lose out on subsequent rewards when the plotId  of their staked munchable becomes invalid",
+  "issueId": 71,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/71"
+}
