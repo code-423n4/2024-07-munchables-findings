@@ -84,3 +84,22 @@ uint256 totalPlotsAvail = _getNumPlots(landlord);
 - if (plotId >= totalPlotsAvail) revert PlotTooHighError();
 + if (plotId > totalPlotsAvail) revert PlotTooHighError();
 ```
+
+## [L-04] Schnibbles reward to distribute is being 2x'ed which could be wrong
+
+[LandManager.sol#L283-L286](https://github.com/code-423n4/2024-07-munchables/blob/main/src/managers/LandManager.sol#L283-L286)
+
+```solidity
+schnibblesTotal = uint256(
+    (int256(schnibblesTotal) +
+        (int256(schnibblesTotal) * finalBonus)) / 100
+);
+```
+
+In the `_farmPlots` function, the calculation of `schnibblesTotal` seems inflated as 2x which I suppose should be 1x. This allows renters and landlords to earn inflated schnibble rewards.
+
+Assuming the math is intended design, the protocol would do the calculation a little differently like so:
+
+```solidity
+schnibblesTotal = uint256((int256(schnibblesTotal * 2)) * finalBonus) / 100;
+```
