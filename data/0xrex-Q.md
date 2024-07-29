@@ -7,8 +7,6 @@ Updating the last timestamp of a landlord's `lastPetMunchable` will fail to work
 @> landlordMetadata.lastPetMunchable = uint32(timestamp);
 ```
 
-Using this updated `withdraw()` implementation below renders a fix to this potential issue:
-
 Using a bigger uint type for the `lastPetMunchable` field and then casting it to a bigger uint like below will delay this a lot further in the future
 
 ```diff
