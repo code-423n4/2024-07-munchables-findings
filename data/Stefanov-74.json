@@ -1,0 +1,8 @@
+{
+  "contest": 414,
+  "handle": "Stefanov",
+  "risk": "2",
+  "title": "LandManager.sol should implement IERC721Receiver",
+  "issueId": 74,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/74"
+}
