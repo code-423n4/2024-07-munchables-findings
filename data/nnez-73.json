@@ -1,0 +1,8 @@
+{
+  "contest": 414,
+  "handle": "nnez",
+  "risk": "2",
+  "title": "Users who transfers from dirty plots are unable to accrue rewards due to persistent dirty flag",
+  "issueId": 73,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/73"
+}
