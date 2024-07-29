@@ -1,0 +1,8 @@
+{
+  "contest": 414,
+  "handle": "0xrex",
+  "risk": "3",
+  "title": "In an edge case where the `REALM_BONUSES` and `RARITY_BONUSES` both return 0, the finalBonus forces the landlords and renters to not earn any schnibbles",
+  "issueId": 68,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/68"
+}
