@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "AvantGard",
+  "risk": "3",
+  "title": " `plotID ` of `toilerState` mapping not updated in the `transferToUnoccupiedPlot` function. ",
+  "issueId": 142,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/142",
+  "originalIssueId": 310,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/310"
+}
