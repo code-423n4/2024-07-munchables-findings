@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "Nexarion",
+  "risk": "3",
+  "title": "Incorrect Percentage Calculation in `schnibblesTotal` Formula",
+  "issueId": 226,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/226",
+  "originalIssueId": 138,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/138"
+}
