@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "stanchev",
+  "risk": "3",
+  "title": "Malicious user/users may frontrun new staker with transferToUnoccupiedPlot() in order to DOS the stakeMunchables() function",
+  "issueId": 83,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/83",
+  "originalIssueId": 225,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/225"
+}
