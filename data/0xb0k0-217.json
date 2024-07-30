@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "0xb0k0",
+  "risk": "3",
+  "title": "Unsafe cast from int256 to uint256 in `LandManager._farmPlots(...)` will overflow",
+  "issueId": 217,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/217",
+  "originalIssueId": 155,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/155"
+}
