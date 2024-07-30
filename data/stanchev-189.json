@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "stanchev",
+  "risk": "3",
+  "title": "User can stake multiple munchables on a single plot",
+  "issueId": 189,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/189",
+  "originalIssueId": 219,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/219"
+}
