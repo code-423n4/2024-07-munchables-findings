@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "BugPull",
+  "risk": "3",
+  "title": "in `LandManager::_farmPlots()` an underflow in edge case leading to freeze of funds (NFT)",
+  "issueId": 76,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/76",
+  "originalIssueId": 358,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/358"
+}
