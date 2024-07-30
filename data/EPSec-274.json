@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "EPSec",
+  "risk": "2",
+  "title": "Front-running TransferToUnoccupiedPlot Causing Griefing",
+  "issueId": 274,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/274",
+  "originalIssueId": 42,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/42"
+}
