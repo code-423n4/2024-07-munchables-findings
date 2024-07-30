@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "dontonka",
+  "risk": "2",
+  "title": "`transferToUnoccupiedPlot` is lacking updating `plotId field` which break farming accounting and might prevent player from earning when farming",
+  "issueId": 283,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/283",
+  "originalIssueId": 23,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/23"
+}
