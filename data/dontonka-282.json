@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "dontonka",
+  "risk": "2",
+  "title": "`_farmPlots` is not detecting properly the `plot's dirtiness` which might allow player to earn even on an invalid plot",
+  "issueId": 282,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/282",
+  "originalIssueId": 24,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/24"
+}
