@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "dhank",
+  "risk": "2",
+  "title": "PlotId is not updated wven though the Plot of the NFT is changed",
+  "issueId": 151,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/151",
+  "originalIssueId": 294,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/294"
+}
