@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "Tamer",
+  "risk": "3",
+  "title": "Type casting in _farmPlots can go to max value of uint256",
+  "issueId": 220,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/220",
+  "originalIssueId": 146,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/146"
+}
