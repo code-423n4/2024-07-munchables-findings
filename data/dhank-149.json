@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "dhank",
+  "risk": "3",
+  "title": "Incorrect `timestamp` calculation for lastPetMunchable of the landlord",
+  "issueId": 149,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/149",
+  "originalIssueId": 296,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/296"
+}
