@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "radev_sw",
+  "risk": "2",
+  "title": "Inconsistent Staking Rewards Due to Dirty Flag Mismanagement",
+  "issueId": 116,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/116",
+  "originalIssueId": 365,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/365"
+}
