@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "TPSec",
+  "risk": "2",
+  "title": "Invalid plots should not receive any rewards",
+  "issueId": 128,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/128",
+  "originalIssueId": 336,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/336"
+}
