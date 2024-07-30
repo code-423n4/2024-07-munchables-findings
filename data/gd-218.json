@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "gd",
+  "risk": "3",
+  "title": "Incorrect calculation of rewards in the _farmPlots function results in users getting wrong/huge rewards or not getting reward due to overflow error",
+  "issueId": 218,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/218",
+  "originalIssueId": 148,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/148"
+}
