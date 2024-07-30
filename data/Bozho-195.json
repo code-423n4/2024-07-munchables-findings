@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "Bozho",
+  "risk": "3",
+  "title": "Malicious renter can occupy all of landlord’s plots",
+  "issueId": 195,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/195",
+  "originalIssueId": 205,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/205"
+}
