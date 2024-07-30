@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "tedox",
+  "risk": "3",
+  "title": "`LandManager::transferToUnoccupiedPlot` doesn't set `toilerState[tokenId].dirty` to false which leads to a user being unable to receive rewards",
+  "issueId": 292,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/292",
+  "originalIssueId": 7,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/7"
+}
