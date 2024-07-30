@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "King_",
+  "risk": "3",
+  "title": "Incorrect calculation of user's earned schnibbles in farmPlots",
+  "issueId": 157,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/157",
+  "originalIssueId": 284,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/284"
+}
