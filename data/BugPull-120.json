@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "BugPull",
+  "risk": "2",
+  "title": "in `LandManager::updateTaxRate()` no time lock allows The LandLord to have `MAX_TAX_RATE` in sneaky way",
+  "issueId": 120,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/120",
+  "originalIssueId": 359,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/359"
+}
