@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "artilugio0",
+  "risk": "3",
+  "title": "Overflow leads to player not able to stake / unstake / transfer any munchable",
+  "issueId": 262,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/262",
+  "originalIssueId": 63,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/63"
+}
