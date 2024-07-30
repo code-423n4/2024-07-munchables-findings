@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "enckrish",
+  "risk": "2",
+  "title": "Inconsistent valid plotId checks, results in one free plot for landlords",
+  "issueId": 137,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/137",
+  "originalIssueId": 321,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/321"
+}
