@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "sandy",
+  "risk": "2",
+  "title": "``transferToUnoccupiedPlot()`` doesn't update ``toilerState`` with the new plot id.",
+  "issueId": 171,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/171",
+  "originalIssueId": 249,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/249"
+}
