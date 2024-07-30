@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "TECHFUND-inc",
+  "risk": "2",
+  "title": "plotId in ToilerState is not being updated on transfer to Unoccupied plot",
+  "issueId": 278,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/278",
+  "originalIssueId": 37,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/37"
+}
