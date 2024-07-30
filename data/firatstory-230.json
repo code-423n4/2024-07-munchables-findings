@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "firatstory",
+  "risk": "3",
+  "title": "Critical Front-Running Exploit: How Malicious Landlords Can Deceive Renters and Compromise the Integrity of the Munchables NFT Platform",
+  "issueId": 230,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/230",
+  "originalIssueId": 124,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/124"
+}
