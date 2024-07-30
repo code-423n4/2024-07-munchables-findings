@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "0x04bytes",
+  "risk": "2",
+  "title": "Attackers can farm plots every 10 minutes or less, making `SnuggeryManager.pet()` function no longer work for the attacked landlord",
+  "issueId": 192,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/192",
+  "originalIssueId": 212,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/212"
+}
