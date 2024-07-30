@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "BugPull",
+  "risk": "3",
+  "title": "DOS attacks due to no timeLock on `transferToUnoccupiedPlot`",
+  "issueId": 115,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/115",
+  "originalIssueId": 366,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/366"
+}
