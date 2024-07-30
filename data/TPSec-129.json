@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "TPSec",
+  "risk": "3",
+  "title": "Wrong calculation of schnibblesTotal due to improper percentage division",
+  "issueId": 129,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/129",
+  "originalIssueId": 332,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/332"
+}
