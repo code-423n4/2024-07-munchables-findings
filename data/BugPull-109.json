@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "BugPull",
+  "risk": "3",
+  "title": "Casting Underflow in `farmplots()`  making user able to get huge number of schnibbles ",
+  "issueId": 109,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/109",
+  "originalIssueId": 372,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/372"
+}
