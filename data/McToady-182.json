@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "McToady",
+  "risk": "2",
+  "title": "Key state changes not made to `toilerState` mapping during `transferToUnoccupiedPlot` preventing correct issuance of rewards",
+  "issueId": 182,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/182",
+  "originalIssueId": 232,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/232"
+}
