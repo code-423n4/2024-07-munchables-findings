@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "franfran20",
+  "risk": "3",
+  "title": "Specific Landlord & Token ID Attributes Can Cause Users NFT To Be Stuck Or Mint Ridiculous Amount Of Schnibbles",
+  "issueId": 158,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/158",
+  "originalIssueId": 282,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/282"
+}
