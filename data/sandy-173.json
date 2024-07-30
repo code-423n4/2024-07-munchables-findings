@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "sandy",
+  "risk": "2",
+  "title": "``stakeMunchable()`` allows staking of 11 munchables due to ``>`` being used instead of ``>=``.",
+  "issueId": 173,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/173",
+  "originalIssueId": 246,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/246"
+}
