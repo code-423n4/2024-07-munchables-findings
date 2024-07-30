@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "BugPull",
+  "risk": "2",
+  "title": "Whenever a `_reconfigure` happens to `BASE_SCHNIBBLE_RATE` some users will take advantages of it",
+  "issueId": 108,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/108",
+  "originalIssueId": 374,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/374"
+}
