@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "kildren",
+  "risk": "2",
+  "title": "Front-Running Vulnerability in Tax Rate Manipulation  ",
+  "issueId": 175,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/175",
+  "originalIssueId": 243,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/243"
+}
