@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "Bozho",
+  "risk": "3",
+  "title": "DOS on LandManager when `getLockedWeightedValue` suddenly changes",
+  "issueId": 197,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/197",
+  "originalIssueId": 203,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/203"
+}
