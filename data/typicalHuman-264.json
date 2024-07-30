@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "typicalHuman",
+  "risk": "3",
+  "title": "Users won't be able to stake/unstake their tokens if they have dirty toiler younger than plotMetadata last update for landlord",
+  "issueId": 264,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/264",
+  "originalIssueId": 58,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/58"
+}
