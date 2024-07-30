@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "stanchev",
+  "risk": "2",
+  "title": "UpdateTaxRate()'s new taxRate could be neglected from stakers that do not take any action deeming the newTaxRate insubstantial.",
+  "issueId": 188,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/188",
+  "originalIssueId": 220,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/220"
+}
