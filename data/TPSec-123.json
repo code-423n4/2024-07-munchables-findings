@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "TPSec",
+  "risk": "2",
+  "title": "A staker has no incentive to actively farm if a landlord increases tax rate",
+  "issueId": 123,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/123",
+  "originalIssueId": 344,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/344"
+}
