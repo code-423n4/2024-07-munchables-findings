@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "vinica_boy",
+  "risk": "3",
+  "title": "Inconsistent state of toiler's plotId, can lead to undeserved rewards for users and landlords",
+  "issueId": 144,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/144",
+  "originalIssueId": 303,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/303"
+}
