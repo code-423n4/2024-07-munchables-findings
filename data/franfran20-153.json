@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "franfran20",
+  "risk": "3",
+  "title": "Transferring To & Unstaking From A Plot Id Can Render The Plot Useless",
+  "issueId": 153,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/153",
+  "originalIssueId": 292,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/292"
+}
