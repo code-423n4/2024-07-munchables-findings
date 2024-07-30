@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "eta",
+  "risk": "2",
+  "title": "Invalid Stake Limits for Munchables in the LandManager Contract",
+  "issueId": 82,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/82",
+  "originalIssueId": 231,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/231"
+}
