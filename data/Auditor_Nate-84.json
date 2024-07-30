@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "Auditor_Nate",
+  "risk": "3",
+  "title": "`function::updateTaxRate` allows for Oscillating Tax Rate Trap allowing malicious landlords to manipulate the tax rate system to their advantage.",
+  "issueId": 84,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/84",
+  "originalIssueId": 216,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/216"
+}
