@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "stuart_the_minion",
+  "risk": "3",
+  "title": "Incorrect calculation of total Schnibbles in farming plots",
+  "issueId": 288,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/288",
+  "originalIssueId": 13,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/13"
+}
