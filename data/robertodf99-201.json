@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "robertodf99",
+  "risk": "2",
+  "title": "Incorrect total schnibbles calculation in `LandManager::_farmPlots` results in loss of users schnibbles",
+  "issueId": 201,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/201",
+  "originalIssueId": 197,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/197"
+}
