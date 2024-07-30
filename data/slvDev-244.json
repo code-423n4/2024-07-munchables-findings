@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "slvDev",
+  "risk": "2",
+  "title": "`landlord` cannot earn rewards on plots marked as dirty after unstaking and restaking tokens in `lockManager` ",
+  "issueId": 244,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/244",
+  "originalIssueId": 96,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/96"
+}
