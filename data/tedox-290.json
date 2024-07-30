@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "tedox",
+  "risk": "3",
+  "title": "Users can own one plot for free because of improper check in `LandManager::_farmPlots`",
+  "issueId": 290,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/290",
+  "originalIssueId": 10,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/10"
+}
