@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "Flare",
+  "risk": "2",
+  "title": "User munchable rewards farming will be still on `oldPlotId` after `transferToUnoccupiedPlot`.",
+  "issueId": 185,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/185",
+  "originalIssueId": 223,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/223"
+}
