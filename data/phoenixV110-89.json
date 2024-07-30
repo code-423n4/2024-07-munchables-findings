@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "phoenixV110",
+  "risk": "3",
+  "title": "Transfering the tokenId from invalid to valid plot doesn’t change the dirty status and hence staker continue to earn 0 rewards",
+  "issueId": 89,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/89",
+  "originalIssueId": 108,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/108"
+}
