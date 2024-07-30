@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "stanchev",
+  "risk": "2",
+  "title": "User could proceed to accrue rewards even if toiler gets \"dirty\".",
+  "issueId": 186,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/186",
+  "originalIssueId": 222,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/222"
+}
