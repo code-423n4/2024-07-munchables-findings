@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "synackrst",
+  "risk": "2",
+  "title": "An attacker can prevent a victim from transferring their staked MunchNFT to another plot",
+  "issueId": 147,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/147",
+  "originalIssueId": 298,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/298"
+}
