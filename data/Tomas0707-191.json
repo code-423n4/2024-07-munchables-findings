@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "Tomas0707",
+  "risk": "2",
+  "title": "transferToUnoccupiedPlot Function Fails to Update toilerState[tokenId].dirty, Preventing Schnibble Collection",
+  "issueId": 191,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/191",
+  "originalIssueId": 215,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/215"
+}
