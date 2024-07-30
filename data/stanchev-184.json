@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "stanchev",
+  "risk": "2",
+  "title": "transferToUnoccupiedPlot() does not reset the toiler.dirty flag whenever we occupy a new \"clean\" slot",
+  "issueId": 184,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/184",
+  "originalIssueId": 224,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/224"
+}
