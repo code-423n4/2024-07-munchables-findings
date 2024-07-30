@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "0xSpacePirate",
+  "risk": "3",
+  "title": "Setting negative REALM_BONUSES results in inaccurate math",
+  "issueId": 228,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/228",
+  "originalIssueId": 129,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/129"
+}
