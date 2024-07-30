@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "0xjarix",
+  "risk": "3",
+  "title": "User can stake on occupied plot and transfer munchable to occupied plot overwriting the munchable currently on the plot",
+  "issueId": 97,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/97",
+  "originalIssueId": 391,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/391"
+}
