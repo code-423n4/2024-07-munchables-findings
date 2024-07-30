@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "0xb0k0",
+  "risk": "2",
+  "title": "User’s schnibbles rewards in `LandManager::_farmPlots(...)` are not properly calculated when the landlord's tax rate changes",
+  "issueId": 79,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/79",
+  "originalIssueId": 244,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/244"
+}
