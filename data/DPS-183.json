@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "DPS",
+  "risk": "3",
+  "title": "`_farmPlots()` will get DoSed because of an overflow when calculating `schnibblesTotal`",
+  "issueId": 183,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/183",
+  "originalIssueId": 227,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/227"
+}
