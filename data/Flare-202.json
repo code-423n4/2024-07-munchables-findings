@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "Flare",
+  "risk": "3",
+  "title": "Negative rewards farming cannot be possible since the `schnibblesTotal` and `schnibblesLandlord` assigned as `uint256` instead of `int256`",
+  "issueId": 202,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/202",
+  "originalIssueId": 196,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/196"
+}
