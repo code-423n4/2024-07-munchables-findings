@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "Heaven",
+  "risk": "3",
+  "title": "Function transferToUnoccupiedPlot is allowing Multiple Plot Occupancy",
+  "issueId": 119,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/119",
+  "originalIssueId": 360,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/360"
+}
