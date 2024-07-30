@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "gd",
+  "risk": "2",
+  "title": "Denial of service due to lack of a proper opt-out mechanism can result in a user's rights being violated",
+  "issueId": 203,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/203",
+  "originalIssueId": 188,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/188"
+}
