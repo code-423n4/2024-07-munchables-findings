@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "vinica_boy",
+  "risk": "2",
+  "title": "All user`s staked munchables will be temporary stuck if they have staked munchable after the last tax rate update",
+  "issueId": 121,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/121",
+  "originalIssueId": 351,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/351"
+}
