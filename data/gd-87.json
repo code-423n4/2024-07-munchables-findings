@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "gd",
+  "risk": "3",
+  "title": "Invalid validation in _farmPlots function allowing a malicious user repeated farming without locked funds",
+  "issueId": 87,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/87",
+  "originalIssueId": 131,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/131"
+}
