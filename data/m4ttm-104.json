@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "m4ttm",
+  "risk": "3",
+  "title": "toilerState plotId is not updated when using `transferToUnoccupiedPlot` so transferring tokens to a different plot will not prevent them being marked as dirty and excluded from bonus calculations",
+  "issueId": 104,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/104",
+  "originalIssueId": 380,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/380"
+}
