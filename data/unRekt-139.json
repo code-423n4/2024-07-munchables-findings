@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "unRekt",
+  "risk": "2",
+  "title": "If value of `lockedTokens[_player][configuredTokenContracts[i]].quantity *configuredTokens[configuredTokenContracts[i]].usdPrice` is less than or equal to `1e10` , `_getNumPlots will return wrong value",
+  "issueId": 139,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/139",
+  "originalIssueId": 318,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/318"
+}
