@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "dontonka",
+  "risk": "2",
+  "title": "`transferToUnoccupiedPlot` is lacking updating `dirty field` which prevent player from earning when farming",
+  "issueId": 284,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/284",
+  "originalIssueId": 22,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/22"
+}
