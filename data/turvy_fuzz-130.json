@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "turvy_fuzz",
+  "risk": "3",
+  "title": "timestamp lesser than lastToilDate will cause entire _farmPlots to revert",
+  "issueId": 130,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/130",
+  "originalIssueId": 330,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/330"
+}
