@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "King_",
+  "risk": "3",
+  "title": "User earns lesser schnibbles on their staked munchable if the landlord's plotId becomes unexistent",
+  "issueId": 105,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/105",
+  "originalIssueId": 377,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/377"
+}
