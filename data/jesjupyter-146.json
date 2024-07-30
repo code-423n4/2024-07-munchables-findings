@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "jesjupyter",
+  "risk": "2",
+  "title": "An `Munchable` can be targeted from staking by front-running",
+  "issueId": 146,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/146",
+  "originalIssueId": 301,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/301"
+}
