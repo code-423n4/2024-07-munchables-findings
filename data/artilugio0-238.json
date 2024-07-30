@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "artilugio0",
+  "risk": "3",
+  "title": "Underflow in _farmPlots lead to stuck munchables",
+  "issueId": 238,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/238",
+  "originalIssueId": 107,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/107"
+}
