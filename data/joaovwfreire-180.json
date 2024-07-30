@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "joaovwfreire",
+  "risk": "3",
+  "title": "Only users who call the LandManager contract may get their toiler states dirty",
+  "issueId": 180,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/180",
+  "originalIssueId": 235,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/235"
+}
