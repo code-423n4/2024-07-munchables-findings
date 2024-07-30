@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "Chad0",
+  "risk": "3",
+  "title": "`toilerState[tokenId].plotId` is not updated after a `tokenId` moves from an old plot to a new plot",
+  "issueId": 222,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/222",
+  "originalIssueId": 143,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/143"
+}
