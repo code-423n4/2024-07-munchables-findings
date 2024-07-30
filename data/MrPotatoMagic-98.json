@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "MrPotatoMagic",
+  "risk": "2",
+  "title": "Blacklisted munchNFT staked in LandManager.sol continues earning rewards",
+  "issueId": 98,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/98",
+  "originalIssueId": 389,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/389"
+}
