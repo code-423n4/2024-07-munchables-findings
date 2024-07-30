@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "Bauchibred",
+  "risk": "2",
+  "title": " A staker can still stake more than the accepted max",
+  "issueId": 285,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/285",
+  "originalIssueId": 21,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/21"
+}
