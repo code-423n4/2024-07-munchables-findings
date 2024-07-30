@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "stanchev",
+  "risk": "3",
+  "title": "User can stake to plotId = 0 when calling stakeMunchables() skipping core game logic",
+  "issueId": 187,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/187",
+  "originalIssueId": 221,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/221"
+}
