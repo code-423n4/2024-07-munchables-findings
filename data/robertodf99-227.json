@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "robertodf99",
+  "risk": "2",
+  "title": "Unnecessary update in landlord's `lastPetMunchable` variable may discourage them from locking high amounts of tokens",
+  "issueId": 227,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/227",
+  "originalIssueId": 136,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/136"
+}
