@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "Fon",
+  "risk": "2",
+  "title": "`toilerState[tokenId].poolId` is not changed when `transferToUnoccupiedPlot` is called",
+  "issueId": 167,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/167",
+  "originalIssueId": 260,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/260"
+}
