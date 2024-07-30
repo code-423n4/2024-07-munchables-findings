@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "0x3b",
+  "risk": "2",
+  "title": "Landlord can pet multiple times in a row",
+  "issueId": 255,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/255",
+  "originalIssueId": 77,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/77"
+}
