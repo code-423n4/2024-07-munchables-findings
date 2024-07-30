@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "mrMorningstar",
+  "risk": "3",
+  "title": "Users can still update tax rates even if they are not landlords anymore",
+  "issueId": 85,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/85",
+  "originalIssueId": 172,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/172"
+}
