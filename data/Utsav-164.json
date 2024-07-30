@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "Utsav",
+  "risk": "2",
+  "title": "_farmPlots() doesn't check dirty bool for all plotId due to missing `=` check",
+  "issueId": 164,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/164",
+  "originalIssueId": 268,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/268"
+}
