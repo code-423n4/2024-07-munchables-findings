@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "0x3b",
+  "risk": "3",
+  "title": "`schnibblesTotal` uses wrong calculation to calculate the total",
+  "issueId": 277,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/277",
+  "originalIssueId": 38,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/38"
+}
