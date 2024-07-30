@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "gajiknownnothing",
+  "risk": "2",
+  "title": "Insufficient Stake Cap Enforcement in `stakeMunchable()` Function",
+  "issueId": 261,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/261",
+  "originalIssueId": 66,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/66"
+}
