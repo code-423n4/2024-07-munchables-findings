@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "Rhaydden",
+  "risk": "2",
+  "title": "Incorrect Staking Limit Check Allows Users to Exceed Intended Maximum of 10 Staked Munchables",
+  "issueId": 307,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/307",
+  "originalIssueId": 62,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/62"
+}
