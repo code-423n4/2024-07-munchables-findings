@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "Rhaydden",
+  "risk": "2",
+  "title": "`transferToUnoccupiedPlot` fails to update `toilerState.plotId`, leading to incorrect plot tracking and could also unnecessarily mark plots as \"dirty\"",
+  "issueId": 305,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/305",
+  "originalIssueId": 67,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/67"
+}
