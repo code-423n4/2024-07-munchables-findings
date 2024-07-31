@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "ihtishamsudo",
+  "risk": "2",
+  "title": "Missing `ToilerState[tokenId].plot` updatation in `transferToUnoccupiedPlot` leads to incorrect rewards calculation",
+  "issueId": 299,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/299",
+  "originalIssueId": 190,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/190"
+}
