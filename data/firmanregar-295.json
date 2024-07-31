@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "firmanregar",
+  "risk": "2",
+  "title": "Overflows in 'farmPlots' function can leads to incorrect calculations and severe financial losses",
+  "issueId": 295,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/295",
+  "originalIssueId": 328,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/328"
+}
