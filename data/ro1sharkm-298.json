@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "ro1sharkm",
+  "risk": "2",
+  "title": "NFT Staking Cap Exceeded Due to Conditional Check Error",
+  "issueId": 298,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/298",
+  "originalIssueId": 250,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/250"
+}
