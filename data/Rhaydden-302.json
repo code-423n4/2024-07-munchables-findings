@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "Rhaydden",
+  "risk": "3",
+  "title": "Incorrect bonus calculation in `_farmPlots` function leading to undervaluation of `schnibblesTotal`",
+  "issueId": 302,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/302",
+  "originalIssueId": 115,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/115"
+}
