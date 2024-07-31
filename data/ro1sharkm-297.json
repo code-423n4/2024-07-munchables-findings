@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "ro1sharkm",
+  "risk": "2",
+  "title": "Inconsistency between function implementation and documentation in triggerPlotMetadata()",
+  "issueId": 297,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/297",
+  "originalIssueId": 259,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/259"
+}
