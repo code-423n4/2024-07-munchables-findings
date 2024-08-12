@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "MrPotatoMagic",
+  "risk": "3",
+  "title": "Attacker can stake and earn rewards tax free due to missing plot metadata initialization check",
+  "issueId": 324,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/324",
+  "originalIssueId": 289,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/289"
+}
