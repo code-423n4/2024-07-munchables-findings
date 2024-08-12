@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "dontonka",
+  "risk": "2",
+  "title": "`stakeMunchable` is allowing to stake against `plot which doesn't have metadata` which will prevent the landlord from earning his tax",
+  "issueId": 327,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/327",
+  "originalIssueId": 26,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/26"
+}
