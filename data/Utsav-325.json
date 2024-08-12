@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "Utsav",
+  "risk": "2",
+  "title": "triggerPlotMetadata() can be frontrun to avoid taxRates",
+  "issueId": 325,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/325",
+  "originalIssueId": 266,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/266"
+}
