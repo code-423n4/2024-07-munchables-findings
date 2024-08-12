@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "prapandey031",
+  "risk": "3",
+  "title": "No check for ```plotMetadata[landlord].lastUpdated == 0``` in ```stakeMunchable()``` function",
+  "issueId": 322,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/322",
+  "originalIssueId": 314,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/314"
+}
