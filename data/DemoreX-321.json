@@ -1,0 +1,10 @@
+{
+  "contest": 414,
+  "handle": "DemoreX",
+  "risk": "2",
+  "title": "Non-triggeredPlotMetadata can be used for zero tax available plots",
+  "issueId": 321,
+  "issueUrl": "https://github.com/code-423n4/2024-07-munchables-findings/issues/321",
+  "originalIssueId": 387,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-munchables-validation/issues/387"
+}
